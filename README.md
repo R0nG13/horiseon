@@ -26,7 +26,7 @@ Webpage:[click here](https://R0nG13.github.io/horiseon/)
 ![screenshot of the finished project](r0ng13.github.io_horiseon_ScreenShot.png)
 
 ## Credits
-Refracted by Ron Gould
+Refractor coding done by Ron Gould
 
 
 
