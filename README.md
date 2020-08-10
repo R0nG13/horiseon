@@ -14,7 +14,12 @@ Clean up the code and make sure it is accessible
 Webpage:[click here](https://R0nG13.github.io/horiseon/)
 
 ## Screen Shot
-![screenshot of the finished project]()
+![screenshot of the finished project](r0ng13.github.io_horiseon_ScreenShot.png)
+
+## Credits
+Refracted by Ron Gould
+
+
 
 
 
