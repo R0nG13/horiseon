@@ -1,5 +1,6 @@
-# horiseon: Code refractor challenge
-Clean up the code and make sure it is accessible
+# Horiseon Website: Code Refractor Challenge
+
+Clean up the code and make sure it is accessible to all.
 
 ## Description
 
@@ -19,13 +20,16 @@ Clean up the code and make sure it is accessible
 
 -And other general improvements as needed
 
+## Web Page
 
-Webpage:[click here](https://R0nG13.github.io/horiseon/)
+to veiw my page please [Click Here](https://R0nG13.github.io/horiseon/)
 
 ## Screen Shot
+
 ![screenshot of the finished project](r0ng13.github.io_horiseon_ScreenShot.png)
 
 ## Credits
+
 Refractor coding done by Ron Gould
 
 
